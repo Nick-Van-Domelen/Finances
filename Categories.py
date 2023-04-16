@@ -1,0 +1,6 @@
+
+Entertainment = []
+
+Bills = []
+
+Groceries = [] 
